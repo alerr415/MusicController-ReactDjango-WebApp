@@ -2,8 +2,8 @@
 
 This project is strongly inspired by TechWithTim's Music-Controller-Web-App-Tutorial. Credits to him.
 
-Setup Instructions
-Install Required Python Modules
+## Setup Instructions
+### Install Required Python Modules
 pip install -r requirements.txt
 Start Web Server
 To start the web server you need to run the following sequence of commands.
