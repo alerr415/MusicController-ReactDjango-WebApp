@@ -1,4 +1,4 @@
-MusicController-ReactDjango-WebApp
+# MusicController-ReactDjango-WebApp
 
 This project is strongly inspired by TechWithTim's Music-Controller-Web-App-Tutorial. Credits to him.
 
