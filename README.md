@@ -4,25 +4,20 @@ This project is strongly inspired by TechWithTim's Music-Controller-Web-App-Tuto
 
 ## Setup Instructions
 ### Install Required Python Modules
-pip install -r requirements.txt
-Start Web Server
-To start the web server you need to run the following sequence of commands.
-
-First cd into your desired tutorial folder (replace x with tutorial number).
-
-cd "Tutorial x"
-Next run the django web server.
-
+pip install -r django
+pip install -r djangorestframework
+### Start Web Server
+Run the django web server.
 python manage.py runserver
-Install Node.js
-Install Node Modules
+
+### Install Node Modules (you will  need Node.js installed)
 First cd into the frontend folder.
 
 cd frontend
 Next install all dependicies.
 
 npm i
-Compile the Front-End
+### Compile the Front-End
 Run the production compile script
 
 npm run build
