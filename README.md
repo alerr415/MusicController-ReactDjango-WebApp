@@ -21,6 +21,7 @@ npm i
 Run the production compile script
 
 npm run build
+
 or for development:
 
 npm run dev
