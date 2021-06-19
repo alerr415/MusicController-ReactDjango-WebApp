@@ -6,9 +6,9 @@ This project is strongly inspired by TechWithTim's Music-Controller-Web-App-Tuto
 
 ### Install Required Python Modules
 
-pip install -r django
+pip install django
 
-pip install -r djangorestframework
+pip install djangorestframework
 
 ### Start Web Server
 
